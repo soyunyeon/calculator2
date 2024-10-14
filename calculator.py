@@ -11,7 +11,7 @@ def multiply(x, y):
     pass
 
 def divide(x, y):
-    # todo
+    return x/y
     pass
 
 print("Select operation.")
